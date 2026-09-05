@@ -32,6 +32,7 @@ Versión de Git
 ![[Pasted image 20260904185043.png|230]]
 
 
+
 Configuración: 
 ![[Pasted image 20260904185128.png|418]]
 
